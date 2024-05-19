@@ -1,1 +1,1 @@
-Zadanie rekrutacyjne Junior React Developer dla Mediporta sp.z.o.o
+Aplikacja pobierająca tagi z APi stackoverflow i pozwalająca na wyszukiwanie u sortowanie
