@@ -1,1 +1,1 @@
-Aplikacja pobierająca tagi z APi stackoverflow i pozwalająca na wyszukiwanie u sortowanie. Napisana za pomocą React TS
+A React TS application that retrieves tags from the Stack Overflow API and allows for searching and sorting.
